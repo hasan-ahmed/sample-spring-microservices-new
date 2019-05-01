@@ -18,6 +18,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 @EnableDiscoveryClient
 @EnableSwagger2
 public class EmployeeApplication {
+// This is a sample comment
 
 	public static void main(String[] args) {
 		SpringApplication.run(EmployeeApplication.class, args);
